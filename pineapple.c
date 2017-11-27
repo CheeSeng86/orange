@@ -11,6 +11,11 @@ int main()
 
 }
 
+void throwaway(void)
+{
+	printf("Throw away\n");
+}
+
 void makePineappleJuice(void)
 {
 
